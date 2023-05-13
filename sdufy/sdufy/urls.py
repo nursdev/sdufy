@@ -16,6 +16,12 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
+from sdufyStarter.views import *
+
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('playlist/', playlist, name='playlist'),
+    path('favorite/', favorite, name='favorite'),
+    path('signIn/', signIn, name='signIn'),
+    path('signUp/', signUp, name='signUp')
 ]

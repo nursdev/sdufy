@@ -1,5 +1,3 @@
-from enum import Enum
-
 from django.db import models
 
 # Create your models here.
@@ -11,7 +9,6 @@ class UserType(models.TextChoices):
 class PlaylistType(models.TextChoices):
     USER = 1
     ADMIN = 2
-
 
 
 class User(models.Model):
