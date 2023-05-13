@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e94b443-676a-44e8-b026-7b50cc0dd3d8" name="Changes" comment="" />
+    <list default="true" id="5e94b443-676a-44e8-b026-7b50cc0dd3d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/sdufy/sdufyStarter/static/img/icon/dots.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sdufy/sdufyStarter/static/img/icon/duration.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sdufy/sdufyStarter/static/img/icon/favourite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sdufy/sdufyStarter/static/img/icon/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sdufy/sdufyStarter/static/img/icon/left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sdufy/sdufyStarter/static/img/icon/like.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sdufy/sdufyStarter/static/img/icon/play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sdufy/sdufyStarter/static/img/icon/playlist.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sdufy/sdufyStarter/static/img/icon/plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sdufy/sdufyStarter/static/img/icon/right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sdufy/sdufyStarter/static/img/icon/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sdufy/sdufyStarter/static/img/skin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -23,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Lenovo/Desktop/project-final",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/project-final/sdufy/sdufyStarter/static",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -35,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683961087333</updated>
-      <workItem from="1683961089203" duration="698000" />
+      <workItem from="1683961089203" duration="1665000" />
     </task>
     <servers />
   </component>
