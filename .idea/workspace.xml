@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e94b443-676a-44e8-b026-7b50cc0dd3d8" name="Changes" comment="img">
-      <change afterPath="$PROJECT_DIR$/sdufy/sdufyStarter/static/style/profile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sdufy/sdufyStarter/templates/sdufy/playlist.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdufy/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/sdufy/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdufy/sdufy/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdufy/sdufy/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdufy/sdufyStarter/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdufy/sdufyStarter/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdufy/sdufyStarter/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/sdufy/sdufyStarter/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="5e94b443-676a-44e8-b026-7b50cc0dd3d8" name="Changes" comment="img" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +40,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Lenovo/Desktop/project-final/sdufy/sdufyStarter/static/style",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/final-project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -65,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683961087333</updated>
       <workItem from="1683961089203" duration="4271000" />
+      <workItem from="1684003697129" duration="520000" />
     </task>
     <task id="LOCAL-00001" summary="img">
       <created>1683962833333</created>
